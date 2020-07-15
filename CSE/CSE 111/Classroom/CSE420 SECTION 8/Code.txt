@@ -1,0 +1,17 @@
+def add_calculation():
+a = “string”
+b = 9
+c = 0.005
+my_list = []
+print(“This function does the add operation”)
+for I in range(21):
+print(i)
+mylist.append(i)
+x = input()
+print(“X: “ + str(x))
+if(x &gt; 6 and x &lt; 10):
+x = x+1
+else:
+x = abs(x-1)
+
+add_calculation()
