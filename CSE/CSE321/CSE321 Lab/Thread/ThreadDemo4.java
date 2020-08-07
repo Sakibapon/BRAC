@@ -1,0 +1,21 @@
+public class ThreadDemo4 implements Runnable{
+  public String threadName = "";
+  
+   ThreadDemo4(String name){
+    this.threadName = name;
+  }
+  
+  public synchronized void run(){
+   for(int i=0; i< 10; i++){
+      System.out.println(threadName +" : "+ i);
+     
+    }
+  }
+  
+  public static void main(String args[]){
+    ThreadDemo2 t1 = new ThreadDemo2("One");
+    ThreadDemo2 t2 = new ThreadDemo2("Two");
+    t1.start();
+    t2.start();
+  }
+}

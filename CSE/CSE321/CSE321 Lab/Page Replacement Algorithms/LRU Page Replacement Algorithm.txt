@@ -1,0 +1,24 @@
+Let capacity be the number of pages that
+memory can hold.  Let set be the current
+set of pages in memory.
+
+1- Start traversing the pages.
+ i) If set holds less pages than capacity.
+   a) Insert page into the set one by one until 
+      the size  of set reaches capacity or all
+      page requests are processed.
+   b) Simultaneously maintain the recent occurred
+      index of each page in a map called indexes.
+   c) Increment page fault
+ ii) Else 
+   If current page is present in set, do nothing.
+   Else 
+     a) Find the page in the set that was least 
+     recently used. We find it using index array.
+     We basically need to replace the page with
+     minimum index.
+     b) Replace the found page with current page.
+     c) Increment page faults.
+     d) Update index of current page.
+
+2. Return page faults.

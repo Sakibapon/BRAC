@@ -1,0 +1,19 @@
+1. a) Write a shell script that computes the gross salary of a employee according to the following
+	
+1) if basic salary is <1500 then HRA 10% of the basic and DA =90% of the basic
+2) if basic salary is >1500 then HRA 50% and DA =98% of the basic
+The basic salary is entered interactively through the key board.
+
+2. Write a shell script which counts the number of lines and words present in a given file?
+
+3.  Write a shell script that takes a command –line argument and 
+reports on whether it is directory , a file or something else.
+
+4.Write a shell script that copies multiple files to a directory?
+
+
+6.Write a shell script which displays the list of all files in the given directory.
+
+7.Write a shell script (small calculator) that adds, subtracts, multiples and divides the given two integers.
+
+9.

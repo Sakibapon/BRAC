@@ -1,0 +1,574 @@
+Producer number 1 has produced itemno 1
+Producer number 1 has produced itemno 2
+Consumer no 1 has consumed Product no 1 made by Producer no 1
+Consumer no 3 has consumed Product no 2 made by Producer no 1
+Producer number 3 has produced itemno 3
+Consumer no 3 has consumed Product no 3 made by Producer no 3
+Producer number 2 has produced itemno 4
+Consumer no 1 has consumed Product no 4 made by Producer no 2
+Producer number 1 has produced itemno 5
+Consumer no 3 has consumed Product no 5 made by Producer no 1
+Producer number 3 has produced itemno 6
+Consumer no 3 has consumed Product no 6 made by Producer no 3
+Producer number 2 has produced itemno 7
+Consumer no 2 has consumed Product no 7 made by Producer no 2
+Producer number 3 has produced itemno 8
+Consumer no 1 has consumed Product no 8 made by Producer no 3
+Producer number 3 has produced itemno 9
+Producer number 2 has produced itemno 10
+Producer number 1 has produced itemno 11
+Consumer no 3 has consumed Product no 9 made by Producer no 3
+Consumer no 1 has consumed Product no 10 made by Producer no 2
+Consumer no 1 has consumed Product no 11 made by Producer no 1
+Producer number 3 has produced itemno 12
+Consumer no 3 has consumed Product no 12 made by Producer no 3
+Producer number 2 has produced itemno 13
+Consumer no 2 has consumed Product no 13 made by Producer no 2
+Producer number 2 has produced itemno 14
+Consumer no 1 has consumed Product no 14 made by Producer no 2
+Producer number 3 has produced itemno 15
+Consumer no 3 has consumed Product no 15 made by Producer no 3
+Producer number 1 has produced itemno 16
+Consumer no 1 has consumed Product no 16 made by Producer no 1
+Producer number 1 has produced itemno 17
+Consumer no 2 has consumed Product no 17 made by Producer no 1
+Producer number 1 has produced itemno 18
+Producer number 3 has produced itemno 19
+Producer number 2 has produced itemno 20
+Consumer no 2 has consumed Product no 18 made by Producer no 1
+Consumer no 3 has consumed Product no 19 made by Producer no 3
+Consumer no 2 has consumed Product no 20 made by Producer no 2
+Producer number 2 has produced itemno 21
+Consumer no 1 has consumed Product no 21 made by Producer no 2
+Producer number 3 has produced itemno 22
+Consumer no 3 has consumed Product no 22 made by Producer no 3
+Producer number 2 has produced itemno 23
+Consumer no 2 has consumed Product no 23 made by Producer no 2
+Producer number 1 has produced itemno 24
+Consumer no 1 has consumed Product no 24 made by Producer no 1
+Producer number 3 has produced itemno 25
+Consumer no 2 has consumed Product no 25 made by Producer no 3
+Producer number 1 has produced itemno 26
+Consumer no 3 has consumed Product no 26 made by Producer no 1
+Producer number 2 has produced itemno 27
+Consumer no 1 has consumed Product no 27 made by Producer no 2
+Producer number 2 has produced itemno 28
+Consumer no 3 has consumed Product no 28 made by Producer no 2
+Producer number 3 has produced itemno 29
+Consumer no 2 has consumed Product no 29 made by Producer no 3
+Producer number 1 has produced itemno 30
+Consumer no 1 has consumed Product no 30 made by Producer no 1
+Producer number 2 has produced itemno 31
+Consumer no 3 has consumed Product no 31 made by Producer no 2
+Producer number 3 has produced itemno 32
+Consumer no 3 has consumed Product no 32 made by Producer no 3
+Producer number 1 has produced itemno 33
+Consumer no 2 has consumed Product no 33 made by Producer no 1
+Producer number 3 has produced itemno 34
+Consumer no 1 has consumed Product no 34 made by Producer no 3
+Producer number 2 has produced itemno 35
+Producer number 3 has produced itemno 36
+Consumer no 2 has consumed Product no 35 made by Producer no 2
+Producer number 2 has produced itemno 37
+Producer number 1 has produced itemno 38
+Consumer no 1 has consumed Product no 37 made by Producer no 2
+Producer number 2 has produced itemno 39
+Consumer no 1 has consumed Product no 39 made by Producer no 2
+Producer number 3 has produced itemno 40
+Consumer no 3 has consumed Product no 40 made by Producer no 3
+Producer number 3 has produced itemno 41
+Consumer no 2 has consumed Product no 41 made by Producer no 3
+Producer number 2 has produced itemno 42
+Consumer no 3 has consumed Product no 42 made by Producer no 2
+Producer number 3 has produced itemno 43
+Consumer no 2 has consumed Product no 43 made by Producer no 3
+Consumer no 2 has consumed Product no 36 made by Producer no 3
+Producer number 1 has produced itemno 44
+Producer number 1 has produced itemno 45
+Consumer no 1 has consumed Product no 44 made by Producer no 1
+Consumer no 2 has consumed Product no 45 made by Producer no 1
+Producer number 3 has produced itemno 46
+Consumer no 1 has consumed Product no 46 made by Producer no 3
+Producer number 2 has produced itemno 47
+Consumer no 1 has consumed Product no 47 made by Producer no 2
+Consumer no 3 has consumed Product no 38 made by Producer no 1
+Producer number 3 has produced itemno 48
+Producer number 3 has produced itemno 49
+Producer number 1 has produced itemno 50
+Consumer no 3 has consumed Product no 48 made by Producer no 3
+Producer number 2 has produced itemno 51
+Consumer no 2 has consumed Product no 51 made by Producer no 2
+Producer number 1 has produced itemno 52
+Consumer no 1 has consumed Product no 52 made by Producer no 1
+Consumer no 2 has consumed Product no 49 made by Producer no 3
+Consumer no 3 has consumed Product no 50 made by Producer no 1
+Producer number 3 has produced itemno 53
+Consumer no 1 has consumed Product no 53 made by Producer no 3
+Producer number 2 has produced itemno 54
+Consumer no 2 has consumed Product no 54 made by Producer no 2
+Producer number 1 has produced itemno 55
+Consumer no 3 has consumed Product no 55 made by Producer no 1
+Producer number 2 has produced itemno 56
+Producer number 2 has produced itemno 57
+Producer number 3 has produced itemno 58
+Consumer no 3 has consumed Product no 56 made by Producer no 2
+Consumer no 1 has consumed Product no 57 made by Producer no 2
+Consumer no 2 has consumed Product no 58 made by Producer no 3
+Producer number 2 has produced itemno 59
+Consumer no 1 has consumed Product no 59 made by Producer no 2
+Producer number 1 has produced itemno 60
+Consumer no 2 has consumed Product no 60 made by Producer no 1
+Producer number 3 has produced itemno 61
+Consumer no 1 has consumed Product no 61 made by Producer no 3
+Producer number 2 has produced itemno 62
+Consumer no 3 has consumed Product no 62 made by Producer no 2
+Producer number 3 has produced itemno 63
+Producer number 1 has produced itemno 64
+Producer number 1 has produced itemno 65
+Consumer no 2 has consumed Product no 63 made by Producer no 3
+Consumer no 1 has consumed Product no 64 made by Producer no 1
+Consumer no 3 has consumed Product no 65 made by Producer no 1
+Producer number 2 has produced itemno 66
+Consumer no 3 has consumed Product no 66 made by Producer no 2
+Producer number 1 has produced itemno 67
+Producer number 1 has produced itemno 68
+Producer number 2 has produced itemno 69
+Consumer no 3 has consumed Product no 67 made by Producer no 1
+Producer number 3 has produced itemno 70
+Consumer no 2 has consumed Product no 70 made by Producer no 3
+Producer number 1 has produced itemno 71
+Consumer no 1 has consumed Product no 71 made by Producer no 1
+Producer number 3 has produced itemno 72
+Consumer no 3 has consumed Product no 72 made by Producer no 3
+Producer number 2 has produced itemno 73
+Consumer no 2 has consumed Product no 73 made by Producer no 2
+Producer number 2 has produced itemno 74
+Consumer no 3 has consumed Product no 74 made by Producer no 2
+Producer number 3 has produced itemno 75
+Consumer no 3 has consumed Product no 75 made by Producer no 3
+Producer number 1 has produced itemno 76
+Consumer no 1 has consumed Product no 76 made by Producer no 1
+Consumer no 2 has consumed Product no 68 made by Producer no 1
+Consumer no 3 has consumed Product no 69 made by Producer no 2
+Producer number 1 has produced itemno 77
+Consumer no 3 has consumed Product no 77 made by Producer no 1
+Producer number 3 has produced itemno 78
+Producer number 2 has produced itemno 79
+Producer number 3 has produced itemno 80
+Consumer no 2 has consumed Product no 78 made by Producer no 3
+Consumer no 3 has consumed Product no 79 made by Producer no 2
+Consumer no 2 has consumed Product no 80 made by Producer no 3
+Producer number 3 has produced itemno 81
+Producer number 1 has produced itemno 82
+Consumer no 1 has consumed Product no 81 made by Producer no 3
+Producer number 1 has produced itemno 83
+Consumer no 2 has consumed Product no 83 made by Producer no 1
+Producer number 2 has produced itemno 84
+Consumer no 1 has consumed Product no 84 made by Producer no 2
+Producer number 3 has produced itemno 85
+Consumer no 3 has consumed Product no 85 made by Producer no 3
+Consumer no 1 has consumed Product no 82 made by Producer no 1
+Producer number 1 has produced itemno 86
+Consumer no 3 has consumed Product no 86 made by Producer no 1
+Producer number 2 has produced itemno 87
+Consumer no 2 has consumed Product no 87 made by Producer no 2
+Producer number 3 has produced itemno 88
+Consumer no 1 has consumed Product no 88 made by Producer no 3
+Producer number 2 has produced itemno 89
+Consumer no 2 has consumed Product no 89 made by Producer no 2
+Producer number 1 has produced itemno 90
+Consumer no 3 has consumed Product no 90 made by Producer no 1
+Producer number 2 has produced itemno 91
+Producer number 3 has produced itemno 92
+Consumer no 1 has consumed Product no 91 made by Producer no 2
+Consumer no 2 has consumed Product no 92 made by Producer no 3
+Producer number 1 has produced itemno 93
+Producer number 2 has produced itemno 94
+Consumer no 3 has consumed Product no 93 made by Producer no 1
+Producer number 3 has produced itemno 95
+Consumer no 1 has consumed Product no 95 made by Producer no 3
+Consumer no 3 has consumed Product no 94 made by Producer no 2
+Producer number 1 has produced itemno 96
+Consumer no 3 has consumed Product no 96 made by Producer no 1
+Producer number 3 has produced itemno 97
+Consumer no 1 has consumed Product no 97 made by Producer no 3
+Producer number 2 has produced itemno 98
+Consumer no 1 has consumed Product no 98 made by Producer no 2
+Producer number 2 has produced itemno 99
+Consumer no 1 has consumed Product no 99 made by Producer no 2
+Producer number 3 has produced itemno 100
+Consumer no 3 has consumed Product no 100 made by Producer no 3
+Producer number 1 has produced itemno 101
+Consumer no 2 has consumed Product no 101 made by Producer no 1
+Producer number 1 has produced itemno 102
+Consumer no 3 has consumed Product no 102 made by Producer no 1
+Producer number 1 has produced itemno 103
+Producer number 1 has produced itemno 104
+Consumer no 2 has consumed Product no 103 made by Producer no 1
+Consumer no 1 has consumed Product no 104 made by Producer no 1
+Producer number 2 has produced itemno 105
+Consumer no 1 has consumed Product no 105 made by Producer no 2
+Producer number 1 has produced itemno 106
+Producer number 3 has produced itemno 107
+Producer number 3 has produced itemno 108
+Consumer no 2 has consumed Product no 106 made by Producer no 1
+Producer number 1 has produced itemno 109
+Consumer no 3 has consumed Product no 109 made by Producer no 1
+Producer number 3 has produced itemno 110
+Consumer no 3 has consumed Product no 110 made by Producer no 3
+Producer number 1 has produced itemno 111
+Consumer no 2 has consumed Product no 111 made by Producer no 1
+Producer number 2 has produced itemno 112
+Consumer no 1 has consumed Product no 112 made by Producer no 2
+Consumer no 3 has consumed Product no 107 made by Producer no 3
+Producer number 3 has produced itemno 113
+Consumer no 3 has consumed Product no 113 made by Producer no 3
+Consumer no 2 has consumed Product no 108 made by Producer no 3
+Producer number 1 has produced itemno 114
+Consumer no 1 has consumed Product no 114 made by Producer no 1
+Producer number 2 has produced itemno 115
+Consumer no 2 has consumed Product no 115 made by Producer no 2
+Producer number 3 has produced itemno 116
+Consumer no 3 has consumed Product no 116 made by Producer no 3
+Producer number 1 has produced itemno 117
+Producer number 2 has produced itemno 118
+Consumer no 1 has consumed Product no 117 made by Producer no 1
+Producer number 2 has produced itemno 119
+Consumer no 2 has consumed Product no 119 made by Producer no 2
+Producer number 3 has produced itemno 120
+Producer number 1 has produced itemno 121
+Consumer no 3 has consumed Product no 120 made by Producer no 3
+Producer number 3 has produced itemno 122
+Consumer no 1 has consumed Product no 122 made by Producer no 3
+Consumer no 2 has consumed Product no 118 made by Producer no 2
+Producer number 1 has produced itemno 123
+Producer number 2 has produced itemno 124
+Consumer no 3 has consumed Product no 123 made by Producer no 1
+Producer number 1 has produced itemno 125
+Consumer no 2 has consumed Product no 125 made by Producer no 1
+Producer number 3 has produced itemno 126
+Consumer no 2 has consumed Product no 126 made by Producer no 3
+Producer number 2 has produced itemno 127
+Consumer no 1 has consumed Product no 127 made by Producer no 2
+Producer number 1 has produced itemno 128
+Consumer no 2 has consumed Product no 128 made by Producer no 1
+Consumer no 3 has consumed Product no 124 made by Producer no 2
+Consumer no 2 has consumed Product no 121 made by Producer no 1
+Producer number 2 has produced itemno 129
+Consumer no 1 has consumed Product no 129 made by Producer no 2
+Producer number 3 has produced itemno 130
+Consumer no 2 has consumed Product no 130 made by Producer no 3
+Producer number 2 has produced itemno 131
+Consumer no 3 has consumed Product no 131 made by Producer no 2
+Producer number 3 has produced itemno 132
+Consumer no 2 has consumed Product no 132 made by Producer no 3
+Producer number 1 has produced itemno 133
+Consumer no 1 has consumed Product no 133 made by Producer no 1
+Producer number 2 has produced itemno 134
+Consumer no 1 has consumed Product no 134 made by Producer no 2
+Producer number 1 has produced itemno 135
+Consumer no 2 has consumed Product no 135 made by Producer no 1
+Producer number 2 has produced itemno 136
+Consumer no 1 has consumed Product no 136 made by Producer no 2
+Producer number 3 has produced itemno 137
+Consumer no 3 has consumed Product no 137 made by Producer no 3
+Producer number 2 has produced itemno 138
+Consumer no 3 has consumed Product no 138 made by Producer no 2
+Producer number 1 has produced itemno 139
+Consumer no 2 has consumed Product no 139 made by Producer no 1
+Producer number 3 has produced itemno 140
+Consumer no 2 has consumed Product no 140 made by Producer no 3
+Producer number 2 has produced itemno 141
+Consumer no 3 has consumed Product no 141 made by Producer no 2
+Producer number 3 has produced itemno 142
+Consumer no 1 has consumed Product no 142 made by Producer no 3
+Producer number 1 has produced itemno 143
+Producer number 1 has produced itemno 144
+Consumer no 2 has consumed Product no 143 made by Producer no 1
+Consumer no 2 has consumed Product no 144 made by Producer no 1
+Producer number 1 has produced itemno 145
+Consumer no 3 has consumed Product no 145 made by Producer no 1
+Producer number 1 has produced itemno 146
+Consumer no 1 has consumed Product no 146 made by Producer no 1
+Producer number 3 has produced itemno 147
+Producer number 2 has produced itemno 148
+Consumer no 3 has consumed Product no 147 made by Producer no 3
+Consumer no 2 has consumed Product no 148 made by Producer no 2
+Producer number 3 has produced itemno 149
+Consumer no 2 has consumed Product no 149 made by Producer no 3
+Producer number 2 has produced itemno 150
+Producer number 1 has produced itemno 151
+Consumer no 1 has consumed Product no 150 made by Producer no 2
+Producer number 1 has produced itemno 152
+Consumer no 3 has consumed Product no 152 made by Producer no 1
+Consumer no 2 has consumed Product no 151 made by Producer no 1
+Producer number 2 has produced itemno 153
+Consumer no 1 has consumed Product no 153 made by Producer no 2
+Producer number 1 has produced itemno 154
+Producer number 2 has produced itemno 155
+Producer number 3 has produced itemno 156
+Consumer no 2 has consumed Product no 154 made by Producer no 1
+Producer number 2 has produced itemno 157
+Consumer no 3 has consumed Product no 157 made by Producer no 2
+Consumer no 1 has consumed Product no 155 made by Producer no 2
+Producer number 2 has produced itemno 158
+Producer number 2 has produced itemno 159
+Consumer no 3 has consumed Product no 158 made by Producer no 2
+Producer number 1 has produced itemno 160
+Consumer no 2 has consumed Product no 160 made by Producer no 1
+Consumer no 3 has consumed Product no 159 made by Producer no 2
+Consumer no 2 has consumed Product no 156 made by Producer no 3
+Producer number 3 has produced itemno 161
+Consumer no 1 has consumed Product no 161 made by Producer no 3
+Producer number 2 has produced itemno 162
+Consumer no 3 has consumed Product no 162 made by Producer no 2
+Producer number 3 has produced itemno 163
+Producer number 1 has produced itemno 164
+Consumer no 3 has consumed Product no 163 made by Producer no 3
+Consumer no 2 has consumed Product no 164 made by Producer no 1
+Producer number 3 has produced itemno 165
+Consumer no 2 has consumed Product no 165 made by Producer no 3
+Producer number 1 has produced itemno 166
+Consumer no 1 has consumed Product no 166 made by Producer no 1
+Producer number 2 has produced itemno 167
+Consumer no 3 has consumed Product no 167 made by Producer no 2
+Producer number 1 has produced itemno 168
+Consumer no 3 has consumed Product no 168 made by Producer no 1
+Producer number 3 has produced itemno 169
+Consumer no 2 has consumed Product no 169 made by Producer no 3
+Producer number 2 has produced itemno 170
+Consumer no 1 has consumed Product no 170 made by Producer no 2
+Producer number 1 has produced itemno 171
+Consumer no 3 has consumed Product no 171 made by Producer no 1
+Producer number 3 has produced itemno 172
+Producer number 1 has produced itemno 173
+Consumer no 3 has consumed Product no 172 made by Producer no 3
+Producer number 1 has produced itemno 174
+Consumer no 3 has consumed Product no 174 made by Producer no 1
+Producer number 2 has produced itemno 175
+Producer number 1 has produced itemno 176
+Consumer no 1 has consumed Product no 175 made by Producer no 2
+Consumer no 2 has consumed Product no 173 made by Producer no 1
+Consumer no 2 has consumed Product no 176 made by Producer no 1
+Producer number 3 has produced itemno 177
+Consumer no 1 has consumed Product no 177 made by Producer no 3
+Producer number 1 has produced itemno 178
+Consumer no 3 has consumed Product no 178 made by Producer no 1
+Producer number 3 has produced itemno 179
+Consumer no 2 has consumed Product no 179 made by Producer no 3
+Producer number 2 has produced itemno 180
+Consumer no 1 has consumed Product no 180 made by Producer no 2
+Producer number 1 has produced itemno 181
+Producer number 3 has produced itemno 182
+Consumer no 3 has consumed Product no 181 made by Producer no 1
+Consumer no 3 has consumed Product no 182 made by Producer no 3
+Producer number 3 has produced itemno 183
+Consumer no 3 has consumed Product no 183 made by Producer no 3
+Producer number 1 has produced itemno 184
+Consumer no 2 has consumed Product no 184 made by Producer no 1
+Producer number 2 has produced itemno 185
+Consumer no 3 has consumed Product no 185 made by Producer no 2
+Producer number 3 has produced itemno 186
+Consumer no 1 has consumed Product no 186 made by Producer no 3
+Producer number 2 has produced itemno 187
+Consumer no 2 has consumed Product no 187 made by Producer no 2
+Producer number 2 has produced itemno 188
+Consumer no 1 has consumed Product no 188 made by Producer no 2
+Producer number 1 has produced itemno 189
+Producer number 2 has produced itemno 190
+Consumer no 3 has consumed Product no 189 made by Producer no 1
+Consumer no 3 has consumed Product no 190 made by Producer no 2
+Producer number 3 has produced itemno 191
+Consumer no 2 has consumed Product no 191 made by Producer no 3
+Producer number 3 has produced itemno 192
+Consumer no 2 has consumed Product no 192 made by Producer no 3
+Producer number 2 has produced itemno 193
+Consumer no 3 has consumed Product no 193 made by Producer no 2
+Producer number 1 has produced itemno 194
+Consumer no 1 has consumed Product no 194 made by Producer no 1
+Producer number 1 has produced itemno 195
+Consumer no 3 has consumed Product no 195 made by Producer no 1
+Producer number 1 has produced itemno 196
+Consumer no 2 has consumed Product no 196 made by Producer no 1
+Producer number 2 has produced itemno 197
+Consumer no 3 has consumed Product no 197 made by Producer no 2
+Producer number 3 has produced itemno 198
+Consumer no 1 has consumed Product no 198 made by Producer no 3
+Producer number 1 has produced itemno 199
+Consumer no 3 has consumed Product no 199 made by Producer no 1
+Producer number 1 has produced itemno 200
+Producer number 2 has produced itemno 201
+Consumer no 2 has consumed Product no 200 made by Producer no 1
+Consumer no 2 has consumed Product no 201 made by Producer no 2
+Producer number 3 has produced itemno 202
+Producer number 2 has produced itemno 203
+Consumer no 1 has consumed Product no 202 made by Producer no 3
+Consumer no 3 has consumed Product no 203 made by Producer no 2
+Producer number 2 has produced itemno 204
+Consumer no 3 has consumed Product no 204 made by Producer no 2
+Producer number 1 has produced itemno 205
+Consumer no 1 has consumed Product no 205 made by Producer no 1
+Producer number 2 has produced itemno 206
+Consumer no 2 has consumed Product no 206 made by Producer no 2
+Producer number 1 has produced itemno 207
+Producer number 2 has produced itemno 208
+Producer number 1 has produced itemno 209
+Consumer no 3 has consumed Product no 207 made by Producer no 1
+Producer number 3 has produced itemno 210
+Consumer no 3 has consumed Product no 210 made by Producer no 3
+Producer number 1 has produced itemno 211
+Consumer no 2 has consumed Product no 211 made by Producer no 1
+Producer number 3 has produced itemno 212
+Consumer no 1 has consumed Product no 212 made by Producer no 3
+Producer number 1 has produced itemno 213
+Consumer no 3 has consumed Product no 213 made by Producer no 1
+Producer number 2 has produced itemno 214
+Consumer no 3 has consumed Product no 214 made by Producer no 2
+Producer number 2 has produced itemno 215
+Consumer no 2 has consumed Product no 215 made by Producer no 2
+Producer number 3 has produced itemno 216
+Consumer no 1 has consumed Product no 216 made by Producer no 3
+Producer number 1 has produced itemno 217
+Consumer no 2 has consumed Product no 217 made by Producer no 1
+Producer number 3 has produced itemno 218
+Consumer no 3 has consumed Product no 218 made by Producer no 3
+Producer number 2 has produced itemno 219
+Consumer no 3 has consumed Product no 219 made by Producer no 2
+Producer number 1 has produced itemno 220
+Consumer no 1 has consumed Product no 220 made by Producer no 1
+Consumer no 2 has consumed Product no 208 made by Producer no 2
+Producer number 3 has produced itemno 221
+Producer number 1 has produced itemno 222
+Consumer no 1 has consumed Product no 221 made by Producer no 3
+Producer number 2 has produced itemno 223
+Consumer no 3 has consumed Product no 223 made by Producer no 2
+Consumer no 1 has consumed Product no 222 made by Producer no 1
+Consumer no 2 has consumed Product no 209 made by Producer no 1
+Producer number 2 has produced itemno 224
+Consumer no 1 has consumed Product no 224 made by Producer no 2
+Producer number 3 has produced itemno 225
+Consumer no 3 has consumed Product no 225 made by Producer no 3
+Producer number 1 has produced itemno 226
+Consumer no 2 has consumed Product no 226 made by Producer no 1
+Producer number 2 has produced itemno 227
+Consumer no 1 has consumed Product no 227 made by Producer no 2
+Producer number 3 has produced itemno 228
+Consumer no 3 has consumed Product no 228 made by Producer no 3
+Producer number 2 has produced itemno 229
+Consumer no 1 has consumed Product no 229 made by Producer no 2
+Producer number 3 has produced itemno 230
+Consumer no 2 has consumed Product no 230 made by Producer no 3
+Producer number 1 has produced itemno 231
+Producer number 1 has produced itemno 232
+Consumer no 2 has consumed Product no 231 made by Producer no 1
+Producer number 3 has produced itemno 233
+Consumer no 1 has consumed Product no 233 made by Producer no 3
+Consumer no 3 has consumed Product no 232 made by Producer no 1
+Producer number 1 has produced itemno 234
+Producer number 2 has produced itemno 235
+Consumer no 1 has consumed Product no 234 made by Producer no 1
+Producer number 1 has produced itemno 236
+Producer number 2 has produced itemno 237
+Consumer no 2 has consumed Product no 236 made by Producer no 1
+Consumer no 3 has consumed Product no 235 made by Producer no 2
+Consumer no 1 has consumed Product no 237 made by Producer no 2
+Producer number 1 has produced itemno 238
+Producer number 3 has produced itemno 239
+Consumer no 2 has consumed Product no 238 made by Producer no 1
+Consumer no 3 has consumed Product no 239 made by Producer no 3
+Producer number 2 has produced itemno 240
+Consumer no 1 has consumed Product no 240 made by Producer no 2
+Producer number 1 has produced itemno 241
+Consumer no 1 has consumed Product no 241 made by Producer no 1
+Producer number 3 has produced itemno 242
+Consumer no 2 has consumed Product no 242 made by Producer no 3
+Producer number 2 has produced itemno 243
+Consumer no 2 has consumed Product no 243 made by Producer no 2
+Producer number 3 has produced itemno 244
+Consumer no 3 has consumed Product no 244 made by Producer no 3
+Producer number 1 has produced itemno 245
+Producer number 3 has produced itemno 246
+Consumer no 3 has consumed Product no 245 made by Producer no 1
+Producer number 2 has produced itemno 247
+Producer number 1 has produced itemno 248
+Consumer no 1 has consumed Product no 247 made by Producer no 2
+Consumer no 2 has consumed Product no 246 made by Producer no 3
+Producer number 2 has produced itemno 249
+Consumer no 3 has consumed Product no 249 made by Producer no 2
+Consumer no 3 has consumed Product no 248 made by Producer no 1
+Producer number 1 has produced itemno 250
+Consumer no 3 has consumed Product no 250 made by Producer no 1
+Producer number 3 has produced itemno 251
+Consumer no 3 has consumed Product no 251 made by Producer no 3
+Producer number 1 has produced itemno 252
+Consumer no 1 has consumed Product no 252 made by Producer no 1
+Producer number 2 has produced itemno 253
+Consumer no 2 has consumed Product no 253 made by Producer no 2
+Producer number 2 has produced itemno 254
+Producer number 2 has produced itemno 255
+Consumer no 1 has consumed Product no 254 made by Producer no 2
+Producer number 1 has produced itemno 256
+Consumer no 2 has consumed Product no 256 made by Producer no 1
+Producer number 3 has produced itemno 257
+Consumer no 3 has consumed Product no 257 made by Producer no 3
+Producer number 1 has produced itemno 258
+Consumer no 2 has consumed Product no 258 made by Producer no 1
+Producer number 1 has produced itemno 259
+Producer number 1 has produced itemno 260
+Consumer no 3 has consumed Product no 259 made by Producer no 1
+Producer number 2 has produced itemno 261
+Consumer no 1 has consumed Product no 261 made by Producer no 2
+Producer number 3 has produced itemno 262
+Consumer no 1 has consumed Product no 262 made by Producer no 3
+Producer number 3 has produced itemno 263
+Consumer no 1 has consumed Product no 263 made by Producer no 3
+Consumer no 2 has consumed Product no 255 made by Producer no 2
+Producer number 1 has produced itemno 264
+Consumer no 3 has consumed Product no 264 made by Producer no 1
+Producer number 1 has produced itemno 265
+Producer number 2 has produced itemno 266
+Consumer no 3 has consumed Product no 265 made by Producer no 1
+Producer number 3 has produced itemno 267
+Consumer no 1 has consumed Product no 267 made by Producer no 3
+Producer number 3 has produced itemno 268
+Consumer no 1 has consumed Product no 268 made by Producer no 3
+Consumer no 2 has consumed Product no 266 made by Producer no 2
+Producer number 2 has produced itemno 269
+Producer number 1 has produced itemno 270
+Consumer no 3 has consumed Product no 269 made by Producer no 2
+Consumer no 3 has consumed Product no 270 made by Producer no 1
+Consumer no 2 has consumed Product no 260 made by Producer no 1
+Producer number 3 has produced itemno 271
+Consumer no 1 has consumed Product no 271 made by Producer no 3
+Producer number 2 has produced itemno 272
+Consumer no 3 has consumed Product no 272 made by Producer no 2
+Producer number 1 has produced itemno 273
+Consumer no 2 has consumed Product no 273 made by Producer no 1
+Producer number 1 has produced itemno 274
+Consumer no 1 has consumed Product no 274 made by Producer no 1
+Producer number 3 has produced itemno 275
+Consumer no 3 has consumed Product no 275 made by Producer no 3
+Producer number 2 has produced itemno 276
+Consumer no 2 has consumed Product no 276 made by Producer no 2
+Producer number 2 has produced itemno 277
+Consumer no 3 has consumed Product no 277 made by Producer no 2
+Producer number 1 has produced itemno 278
+Consumer no 1 has consumed Product no 278 made by Producer no 1
+Producer number 3 has produced itemno 279
+Consumer no 3 has consumed Product no 279 made by Producer no 3
+Producer number 1 has produced itemno 280
+Consumer no 2 has consumed Product no 280 made by Producer no 1
+Producer number 2 has produced itemno 281
+Producer number 3 has produced itemno 282
+Consumer no 2 has consumed Product no 281 made by Producer no 2
+Consumer no 2 has consumed Product no 282 made by Producer no 3
+Producer number 1 has produced itemno 283
+Consumer no 1 has consumed Product no 283 made by Producer no 1
+Producer number 2 has produced itemno 284
+Consumer no 1 has consumed Product no 284 made by Producer no 2
+Producer number 3 has produced itemno 285
+Consumer no 3 has consumed Product no 285 made by Producer no 3
+Producer number 1 has produced itemno 286
+Consumer no 2 has consumed Product no 286 made by Producer no 1
+Producer number 1 has produced itemno 287
+Consumer no 3 has consumed Product no 287 made by Producer no 1

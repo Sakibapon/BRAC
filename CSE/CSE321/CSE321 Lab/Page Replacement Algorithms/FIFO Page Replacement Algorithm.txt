@@ -1,0 +1,20 @@
+1- Start traversing the pages.
+ i) If set holds less pages than capacity.
+   a) Insert page into the set one by one until 
+      the size  of set reaches capacity or all
+      page requests are processed.
+   b) Simultaneously maintain the pages in the
+      queue to perform FIFO.
+   c) Increment page fault
+ ii) Else 
+   If current page is present in set, do nothing.
+   Else 
+     a) Remove the first page from the queue
+        as it was the first to be entered in
+        the memory
+     b) Replace the first page in the queue with 
+        the current page in the string.
+     c) Store current page in the queue.
+     d) Increment page faults.
+
+2. Return page faults.

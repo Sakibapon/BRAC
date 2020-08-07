@@ -1,0 +1,20 @@
+1. Take input of the pages required for a task in an array and fix
+	the capacity.
+2. You may use a method for calculating page faults
+3. While performing insertion if the capacity is not full then
+	Check if the page is present or not
+	Each insertion before capacity not being full causes page fault.
+4. If the capacity if full then 
+	Check if the page is present or not
+		If not present then remove the first element & shift 
+		all element (if you use an array otherwise you can
+		use build in Queue class)
+		
+		Then insert at the last available space.
+
+5. For counting page faults always increment count while inserting
+6. For counting page hits alwasys increment count after searching for
+	a page in the array. 
+
+
+BEST OF LUCK !!!

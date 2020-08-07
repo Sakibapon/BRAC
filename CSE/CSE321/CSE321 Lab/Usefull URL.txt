@@ -1,0 +1,13 @@
+http://wwwhome.ewi.utwente.nl/~pieter/CS-OS/
+https://cs.nyu.edu/courses/fall12/CSCI-GA.2250-001/
+http://kunz-pc.sce.carleton.ca/sysc4001/
+https://www.cs.helsinki.fi/u/niklande/opetus/kj/2006/index.en.html#kirja
+http://www.cs.fredonia.edu/~zubairi/s2k2/csit431/lects.html
+https://www.usna.edu/Users/cs/crabbe/SI411/current/
+http://faculty.kutztown.edu/rieksts/343/os.html
+https://www.cs.montana.edu/bhz/classes/spring-2004/cs418/homepage.html
+http://williamstallings.com/OperatingSystems/OS8e-Instructor/
+https://github.com/minix3/minix
+http://web.mit.edu/6.033/1997/handouts/html/04sfs.html
+https://www.cl.cam.ac.uk/teaching/2003/OpSys1/
+http://www.cse.unsw.edu.au/~cs9242/14/project/index.shtml#project-a-simple-operating-system
