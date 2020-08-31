@@ -1,0 +1,29 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cse220lab4;
+
+/**
+ *
+ * @author Sakib
+ */
+import java.util.Scanner;
+public class Task04 
+{
+    public static String convert(int n) 
+    {
+        if(n <= 1)  return String.valueOf(n);
+        int temp = n % 2;
+        return convert(n / 2)+String.valueOf(temp);
+    }
+    
+    public static void main(String[] args)
+    {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Please Enter Number");
+        int n = sc.nextInt();
+        System.out.println(convert(n));
+    }
+}
