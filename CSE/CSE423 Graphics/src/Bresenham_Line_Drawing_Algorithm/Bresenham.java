@@ -6,18 +6,7 @@ import javax.media.opengl.glu.GLU;
 import javax.swing.*;
 import java.util.Scanner;
 
-/**
- * Bresenham
- * + ------------------------------------------------------------------------------------------------+
- * Description: Drawing a line using Bresenham's line drawing algorithm
- * + ------------------------------------------------------------------------------------------------+
- *
- * @author Sajjad Ahmed Niloy
- * @version 1.0
- * @since 23-Aug-18
- * license   MIT
- * + ------------------------------------------------------------------------------------------------+
- */
+
 public class Bresenham {
     public static void main(String args[]) {
 

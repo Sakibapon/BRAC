@@ -1,25 +1,12 @@
-package Mid_Point_Line_Drawing_Algorithm;
+package Drawing_Square_using_Mid_Point;
 
 import javax.media.opengl.GL2;
 
-/**
- * Mid_Point_Algorithm
- * + ------------------------------------------------------------------------------------------------+
- * Description: This class is used for drawing a line between two points with mid point algorithm.
- * + ------------------------------------------------------------------------------------------------+
- *
- * @author Sajjad Ahmed Niloy
- * @version 1.0
- * @since 23-Aug-18
- * license   MIT
- * + ------------------------------------------------------------------------------------------------+
- */
 
 
-
-public class Mid_Point_Algorithm
+public class Mid_Point_Line_Drawer
 {
-    protected void drawLine(GL2 gl, int x0, int y0, int x1, int y1)
+    protected void drawMyLine(GL2 gl, int x0, int y0, int x1, int y1)
     {
         int zone = findZone(x0, y0, x1, y1);
         if (zone == 0)

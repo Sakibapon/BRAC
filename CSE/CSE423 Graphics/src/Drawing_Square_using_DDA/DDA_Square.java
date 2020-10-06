@@ -5,18 +5,6 @@ import javax.media.opengl.awt.GLCanvas;
 import javax.media.opengl.glu.GLU;
 import javax.swing.*;
 
-/**
- * <h1>DDA_Square</h1>
- * + ------------------------------------------------------------------------------------------------+
- * Description: Drawing a square shape using DDA line drawing algorithm.
- * + ------------------------------------------------------------------------------------------------+
- *
- * @author Sajjad Ahmed Niloy
- * @version 1.0
- * @since 23-Aug-18
- * license   MIT
- * + ------------------------------------------------------------------------------------------------+
- */
 
 public class DDA_Square {
     public static void main(String args[]) {

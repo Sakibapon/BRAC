@@ -7,18 +7,7 @@ import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Circle_Drawing
- * + ------------------------------------------------------------------------------------------------+
- * Description: Drawing a circle using Eight Way Symmetry Circle drawing algorithm.
- * + ------------------------------------------------------------------------------------------------+
- *
- * @author Sajjad Ahmed Niloy
- * @version 1.0
- * @since 23-Aug-18
- * license   MIT
- * + ------------------------------------------------------------------------------------------------+
- */
+
 
 
 public class Circle_Drawing {

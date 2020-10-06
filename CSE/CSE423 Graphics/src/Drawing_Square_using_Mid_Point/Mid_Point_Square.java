@@ -1,4 +1,4 @@
-package Mid_Point_Line_Drawing_Algorithm;
+package Drawing_Square_using_Mid_Point;
 
 import javax.media.opengl.*;
 import javax.media.opengl.awt.GLCanvas;
@@ -6,19 +6,8 @@ import javax.media.opengl.glu.GLU;
 import javax.swing.*;
 import java.util.Scanner;
 
-/**
- * Mid Point
- * + ------------------------------------------------------------------------------------------------+
- * Description: Drawing a line using mid point line drawing algorithm.
- * + ------------------------------------------------------------------------------------------------+
- *
- * @author Sajjad Ahmed Niloy
- * @version 1.0
- * @since 23-Aug-18
- * license   MIT
- * + ------------------------------------------------------------------------------------------------+
- */
-public class Mid_Point {
+
+public class Mid_Point_Square {
     public static void main(String args[]) {
 
         //getting the capabilities object of GL2 profile
@@ -26,24 +15,26 @@ public class Mid_Point {
         GLCapabilities capabilities = new GLCapabilities(profile);
         // The canvas
         final GLCanvas glcanvas = new GLCanvas(capabilities);
-        ThirdGLEventListener b = new ThirdGLEventListener();
+        ThirdGLEventListener_Square b = new ThirdGLEventListener_Square();
         glcanvas.addGLEventListener(b);
         glcanvas.setSize(400, 400);
         //creating frame
-        final JFrame frame = new JFrame("Mid point algorithm by ©Sajjad Ahmed Niloy");
+        final JFrame frame = new JFrame("Mid Point square");
         //adding canvas to frame
         frame.add(glcanvas);
         frame.setSize(640, 480);
         frame.setVisible(true);
     }
+
 }
 
-
-class ThirdGLEventListener implements GLEventListener {
+class ThirdGLEventListener_Square implements GLEventListener {
     private int x0, y0, x1, y1;
     private GLU glu;
+    private Mid_Point_Line_Drawer dlh;
 
     public void init(GLAutoDrawable gld) {
+        dlh = new Mid_Point_Line_Drawer();
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter x0 : ");
         x0 = scanner.nextInt();
@@ -68,8 +59,33 @@ class ThirdGLEventListener implements GLEventListener {
         GL2 gl = drawable.getGL().getGL2();
         gl.glClear(GL2.GL_COLOR_BUFFER_BIT);
 
-        Mid_Point_Algorithm mp = new Mid_Point_Algorithm();
-        mp.drawLine(gl, x0, y0, x1, y1);
+
+        int dy = y1 - y0, dx = x1 - x0;
+
+        int distance = (int) Math.sqrt(Math.pow(dx, 2) + Math.pow(dy, 2));
+
+        double mg = (double) dy / dx;
+
+        double theta = Math.atan(mg) * 180 / Math.PI;
+        gl.glTranslated(x1, y1, 0);
+        gl.glRotated(theta, 0, 0, 1);
+
+
+        gl.glPushMatrix();
+        dlh.drawMyLine(gl, 0, 0, distance, 0);
+
+        gl.glRotated(90, 0, 0, 1);
+        dlh.drawMyLine(gl, 0, 0, distance, 0);
+
+        gl.glTranslated(distance, 0, 0);
+        gl.glRotated(-90, 0, 0, 1);
+        dlh.drawMyLine(gl, 0, 0, distance, 0);
+
+        gl.glTranslated(distance, 0, 0);
+        gl.glRotated(-90, 0, 0, 1);
+        dlh.drawMyLine(gl, 0, 0, distance, 0);
+        gl.glPopMatrix();
+
 
     }
 
@@ -81,4 +97,6 @@ class ThirdGLEventListener implements GLEventListener {
     public void dispose(GLAutoDrawable arg0) {
 
     }
+
+
 }

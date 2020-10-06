@@ -7,19 +7,6 @@ import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Smiley Drawing
- * + ------------------------------------------------------------------------------------------------+
- * Description: Drawing a smiley shape using Eight Way Symmetry Circle drawing algorithm.
- * + ------------------------------------------------------------------------------------------------+
- *
- * @author Sajjad Ahmed Niloy
- * @version 1.0
- * @since 23-Aug-18
- * license   MIT
- * + ------------------------------------------------------------------------------------------------+
- */
-
 
 public class Smiley_Drawing {
     public static void main(String args[]) {

@@ -1,17 +1,6 @@
 package DDA_Line_Drawing_Algorithm;
 
-/**
- * DDA
- * + ------------------------------------------------------------------------------------------------+
- * Description: Drawing a line using DDA line drawing algorithm.
- * + ------------------------------------------------------------------------------------------------+
- *
- * @author Sajjad Ahmed Niloy
- * @version 1.0
- * @since 23-Aug-18
- * license   MIT
- * + ------------------------------------------------------------------------------------------------+
- */
+
 
 import javax.media.opengl.*;
 import javax.media.opengl.awt.GLCanvas;

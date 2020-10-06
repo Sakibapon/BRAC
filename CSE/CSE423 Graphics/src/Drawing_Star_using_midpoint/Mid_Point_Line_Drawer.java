@@ -1,18 +1,7 @@
-package Drawing_Square_using_Mid_Point;
+package Drawing_Star_using_midpoint;
 
 import javax.media.opengl.GL2;
 
-/**
- * ------------------------------------------------------------------------------------------------*
- * File name: Mid_Point_Line_Drawer
- * Project name: CSE423_LAB_RAW
- * Author: SAJJAD AHMED NILOY
- * Created on: 12:45 AM
- * License:
- * ------------------------------------------------------------------------------------------------*
- * Use:
- * This class is used for drawing a line between two points with mid point algorithm.
- **/
 
 public class Mid_Point_Line_Drawer
 {

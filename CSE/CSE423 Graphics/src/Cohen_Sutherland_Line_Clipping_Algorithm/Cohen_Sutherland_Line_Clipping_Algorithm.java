@@ -10,24 +10,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-/**
- * Cohen_Sutherland_Line_Clipping_Algorithm
- * + ------------------------------------------------------------------------------------------------+
- * Description:
- * takes max width and height as input
- * reads line co ordinates form txt file
- * detects wheather the link clips within that given region or not
- * completely accepted: GREEN color
- * completely rejected: RED color
- * partially accepted/rejected: YELLOW color
- * + ------------------------------------------------------------------------------------------------+
- *
- * @author Sajjad Ahmed Niloy
- * @version 1.0
- * @since 23-Aug-18
- * license   MIT
- * + ------------------------------------------------------------------------------------------------+
- */
 
 class Line {
     public int x0, y0, x1, y1;

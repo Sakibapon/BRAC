@@ -7,19 +7,6 @@ import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Star
- * + ------------------------------------------------------------------------------------------------+
- * Description: Drawing a star shape using mid point line drawing algorithm. It takes radius of the
- * star shape as input.
- * + ------------------------------------------------------------------------------------------------+
- *
- * @author Sajjad Ahmed Niloy
- * @version 1.0
- * @since 23-Aug-18
- * license   MIT
- * + ------------------------------------------------------------------------------------------------+
- */
 public class Star {
     public static void main(String args[]) {
 

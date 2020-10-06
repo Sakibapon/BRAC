@@ -9,18 +9,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-/**
- * Main_Cohen
- * + ------------------------------------------------------------------------------------------------+
- * Description:
- * + ------------------------------------------------------------------------------------------------+
- *
- * @author Sajjad Ahmed Niloy
- * @version 1.0
- * @since 23-Aug-18
- * license   MIT
- * + ------------------------------------------------------------------------------------------------+
- */
+
 public class Main_Cohen {
     public static void main(String args[]) {
 
