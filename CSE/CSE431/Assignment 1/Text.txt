@@ -1,0 +1,5 @@
+Apon
+apan
+aPin
+APuN
+RegEx =[Aa]+[Pp]+\S+[$Nn]
