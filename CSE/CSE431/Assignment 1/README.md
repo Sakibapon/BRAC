@@ -15,3 +15,6 @@ With Regular Expression it matches
 
 
 ['Apon', 'aponnn', 'apan', 'apian', 'APuN', 'aPin', 'APON']
+
+
+here RE can be  ^[Aa]+[Pp]+\S+[$Nn] too if the names are in different texts
