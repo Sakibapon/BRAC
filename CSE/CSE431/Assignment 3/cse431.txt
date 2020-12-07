@@ -1,0 +1,40 @@
+I am well. I am doing good. 
+AAR takes CSE431.
+six people did this assignment.Their names are TasnimSakibApon, AsefHassanAmiz, RafidMostafa, SudeeptoBose, ShadmanSobhani, JebaTahsinHossain.
+this is assignment number 3.
+Weather is cloduy.
+This is winter season.
+this is CSE431.It has expanded to 11,200 students studying at 20 schools, departments and institutes in 2020.
+this is BRAC Univeristy.
+Brac University was founded in 2001 by Sir Fazle Hasan Abed under the Private University Act. BRAC univeristy held its first Convocation in January 2006.
+The Residential Campus in Savar was founded in 2003 and substantially expanded in 2012.
+Brac University is currently building a new campus. It will be located at KHA 224, Progati Sarani, Merul Badda, Dhaka 1212. WOHA Designs Pte Ltd., an architectural firm based in Singapore, has designed this project.
+Mahbub Majumdar is the dean of CSE Department.
+This is year 2020.
+It has expanded to 11,200 students studying at 20 schools, departments and institutes in 2020.
+As the university grew and institutional capacity was built, it expanded the variety of programs and introduced master's degrees.
+Brac University started with 3 departments and around 80 students in 2001.
+Brac University is located at 66 Mohakhali Commercial Area in buildings owned by BRAC. Land for a new permanent campus was acquired during the last years. The construction is currently ongoing and will be finished in 2021.
+The Residential Campus in Savar was founded in 2003 and substantially expanded in 2012.
+Each student will spend one semester in Savar on the Residential Campus.
+The Residential Campus is an integral part of Brac University.
+Each student will spend one semester in Savar on the Residential Campus, taking specific academic courses as well as executing community tasks.
+Traditionally, in Bangladesh, students do not leave their family homes during their university years. 
+This program is the only one in Bangladesh that gives them the opportunity to live in an independent setting for the first time.
+Brac University consists of different academic units. Departments with faculty are sufficient for rolling out academic programs. Schools serve the purpose of supporting strategic initiatives at a more abstract level. The institutes are entities of Brac University, but they work independently. The centers have each their own projects, which they conduct within the university realms.
+Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural-language generation.
+Up to the 1980s, most natural language processing systems were based on complex sets of hand-written rules. Starting in the late 1980s, however, there was a revolution in natural language processing with the introduction of machine learning algorithms for language processing. This was due to both the steady increase in computational power (see Moore's law) and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing.
+Here is a joke,Why do bicycles fall over, because they’re two-tired!
+Natural language processing has its roots in the 1950s. Already in 1950, Alan Turing published an article titled "Computing Machinery and Intelligence" which proposed what is now called the Turing test as a criterion of intelligence, a task that involves the automated interpretation and generation of natural language, but at the time not articulated as a problem separate from artificial intelligence.
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
+BUX is a online learning platform of BRACU. 
+These people did the assignments TasnimSakibApon,AsefHassanAmiz,RafidMostafa,SudeeptoBose,ShadmanSobhani,JebaTahsinHossain.
+
+
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
+The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or exhales. These droplets are too heavy to hang in the air, and quickly fall on floors or surfaces.
+You can be infected by breathing in the virus if you are within close proximity of someone who has COVID-19, or by touching a contaminated surface and then your eyes, nose or mouth.
+
+To prevent the spread of COVID-19 Clean your hands often, Use soap and water, or an alcohol-based hand rub, maintain a safe distance from anyone who is coughing or sneezing, Wear a mask when physical distancing is not possible, Don’t touch your eyes, nose or mouth, Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.
+If you have a fever, cough and difficulty breathing, seek medical attention.
