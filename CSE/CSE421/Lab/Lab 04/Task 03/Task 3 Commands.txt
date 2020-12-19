@@ -1,0 +1,37 @@
+R2->   CLI Mode
+	enable
+	config t
+	ip dhcp excluded-address ?
+	ip dhcp excluded-address 192.168.10.1 ?
+	ip dhcp excluded-address 192.168.10.1 192.168.10.10
+	ip dhcp excluded-address 192.168.30.1 192.168.30.10
+	ip dhcp pool R1-LAN
+	network 192.168.10.0 255.255.255.0
+	default-router 192.168.10.1
+	dns-server 192.168.20.254
+	exit
+	ip dhcp pool R3-LAN
+	network 192.168.30.0 255.255.255.0
+	default-router 192.168.30.1
+	dns-server 192.168.20.254
+R1->   CLI Mode
+	enable
+	config t
+	interface gigabitEthernet 0/0
+	ip helper-address 10.1.1.2
+R3->   CLI Mode
+	enable
+	config t
+	interface gigabitEthernet 0/0
+	ip helper-address 10.2.2.2
+PC1->   desktop->IP config->select DHCP
+PC2->   desktop->IP config->select DHCP
+R2->    exit
+	interface gigabitEthernet 0/1
+	ip address dhcp
+	no shutdown
+	exit
+	exit
+	show interface brief
+PC2->	ping 192.168.10.11   get replies
+PC1->	ping 209.165.202.158 get replies

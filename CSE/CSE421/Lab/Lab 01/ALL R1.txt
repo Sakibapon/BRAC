@@ -1,0 +1,223 @@
+
+
+********************************
+!!!AUTHORIZED ACCESS ONLY!!!
+********************************
+
+
+User Access Verification
+
+Password: 
+
+R1>enable
+Password: 
+R1#cof t
+R1#cof t
+       ^
+% Invalid input detected at '^' marker.
+	
+R1#conf t
+R1#conf terminal 
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)##line vty 0 4
+           ^
+% Invalid input detected at '^' marker.
+	
+R1(config)#line vty 0 4
+R1(config-line)#password cisco
+R1(config-line)#login
+R1(config-line)#exit
+R1(config)#
+R1(config)#service ?
+  dhcp                 Enable DHCP server and relay agent
+  nagle                Enable Nagle's congestion control algorithm
+  password-encryption  Encrypt system passwords
+  timestamps           Timestamp debug/log messages
+R1(config)#service p
+R1(config)#service password-encryption 
+R1(config)#interface serial 0/0/0
+R1(config-if)#ip address 192.168.2.1 255.255.255.0
+R1(config-if)#clock rate 64000
+R1(config-if)#no shutdown
+
+%LINK-5-CHANGED: Interface Serial0/0/0, changed state to down
+R1(config-if)#no shut
+R1(config-if)##interface fastethernet 0/0
+              ^
+% Invalid input detected at '^' marker.
+	
+R1(config-if)#interface fastethernet 0/0
+R1(config-if)#ip address 192.168.1.1 255.255.255.0
+R1(config-if)#no shut
+
+R1(config-if)#
+%LINK-5-CHANGED: Interface FastEthernet0/0, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/0, changed state to up
+
+R1(config-if)#show run
+                ^
+% Invalid input detected at '^' marker.
+	
+R1(config-if)#exit
+R1(config)#show run
+            ^
+% Invalid input detected at '^' marker.
+	
+R1(config)#end
+R1#
+%SYS-5-CONFIG_I: Configured from console by console
+
+R1#show run
+Building configuration...
+
+Current configuration : 948 bytes
+!
+version 12.3
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+service password-encryption
+!
+hostname R1
+!
+!
+!
+enable secret 5 $1$mERr$9cTjUIEqNGurQiFU.ZeCi1
+!
+!
+!
+!
+!
+!
+no ip cef
+no ipv6 cef
+
+R1#conf t
+R1#conf terminal 
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#end
+R1#
+%SYS-5-CONFIG_I: Configured from console by console
+
+R1#copy run start
+Destination filename [startup-config]? 
+Building configuration...
+[OK]
+R1#show run
+Building configuration...
+
+Current configuration : 948 bytes
+!
+version 12.3
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+service password-encryption
+!
+hostname R1
+!
+!
+!
+enable secret 5 $1$mERr$9cTjUIEqNGurQiFU.ZeCi1
+!
+!
+!
+!
+!
+!
+no ip cef
+no ipv6 cef
+!
+
+R1#show run
+Building configuration...
+
+Current configuration : 948 bytes
+!
+version 12.3
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+service password-encryption
+!
+hostname R1
+!
+!
+!
+enable secret 5 $1$mERr$9cTjUIEqNGurQiFU.ZeCi1
+!
+!
+!
+!
+!
+!
+no ip cef
+no ipv6 cef
+ --More-- 
+%LINK-5-CHANGED: Interface Serial0/0/0, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface Serial0/0/0, changed state to up
+
+
+
+
+
+
+
+
+
+R1 con0 is now available
+
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+
+
+
+
+
+
+
+
+
+********************************
+!!!AUTHORIZED ACCESS ONLY!!!
+********************************
+
+
+User Access Verification
+
+Password: 
+Password: 
+
+R1>enable
+Password: 
+Password: 
+R1#show run
+Building configuration...
+
+Current configuration : 948 bytes
+!
+version 12.3
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+service password-encryption
+!
+hostname R1
+!
+!
+!
+enable secret 5 $1$mERr$9cTjUIEqNGurQiFU.ZeCi1
+!
+!
+!
+!
+!
+!
+no ip cef
+no ipv6 cef
+ --More-- 

@@ -1,0 +1,43 @@
+pc1->ipconfig /all
+pc3->ipconfig /all
+
+pc1->ping 10.10.1.18
+Reply from 10.10.1.97: Destination host unreachable.
+
+tracert 10.10.1.10
+
+pc3-> tracert 10.10.1.98
+
+R1-> cisco->enable->class
+    show ip interface brief
+    show ip route 
+
+R3-> cisco->enable->class
+    show ip interface brief
+    show ip route
+
+R2-> cisco->enable->class
+    show ip interface brief
+    show ip route
+    configure terminal
+    interface s0/0/0
+    ip address 10.10.1.5 255.255.255.252
+
+pc1->ping 10.10.1.18
+replies
+
+pc3->ping 10.10.1.98
+replies
+
+pc2->ipv6config /all 
+     ping 2001:DB8:1:4::2
+     tracert 2001:DB8:1:4::2
+
+pc4->pc2->ipv6config /all 
+     ping 2001:DB8:1:1::2
+     tracert 2001:DB8:1:1::2
+
+R3-> cisco->enable->class
+    show ip interface brief
+    show ip route
+pc4-> ip config->default getway-> FE80::3
