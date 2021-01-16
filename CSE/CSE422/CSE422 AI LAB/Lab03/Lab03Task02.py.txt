@@ -1,0 +1,13 @@
+# 16301119 (Abde Musavvir Khan)
+
+import numpy as np
+import pandas as pd
+data = pd.read_csv('StockPriceData.csv', delimiter = ',', usecols=['Adj Close'])
+df = pd.DataFrame(data)
+df.plot()
+smoothedf = df.rolling(100).mean()
+df['newcol'] = smoothedf
+df.head(20)
+df.dropna()
+print(df.head(20))
+df['newcol'].plot()
