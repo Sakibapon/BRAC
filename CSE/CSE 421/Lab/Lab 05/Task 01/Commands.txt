@@ -1,0 +1,18 @@
+PC1->Desktop->command promt-> ping 172.31.0.254
+
+R1->CLI-> enable
+	configure terminal
+	ip route 172.31.0.0 255.255.255.0 172.31.1.193
+	ip route 172.31.1.128 255.255.255.192 172.31.1.193
+	ip route 172.31.1.196 255.255.255.252 172.31.1.193
+ping 172.31.0.254
+R2->CLI->enable
+	configure terminal
+	ip route 172.31.1.0 255.255.255.128 172.31.1.194
+	ip route 172.31.1.128 255.255.255.192 172.31.1.198
+Ping 172.31.0.254
+R3->CLI->enable
+	configure terminal
+	ip route 0.0.0.0 0.0.0.0 s0/0/1	
+	exit
+	show ip route

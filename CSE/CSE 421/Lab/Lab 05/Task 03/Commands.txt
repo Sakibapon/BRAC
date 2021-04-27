@@ -1,0 +1,49 @@
+  R1  >	enable
+	configure terminal
+	ip route 0.0.0.0 0.0.0.0 s0/0/1
+	router rip
+	version 2
+	no auto-summary
+	network 192.168.1.0
+	network 192.168.2.0
+	passive-interface g0/0
+	default-information originate
+	end
+	copy run start
+
+  R2  >	enable
+	configure terminal
+	router rip
+	version 2
+	no auto-summary
+	network 198.168.2.0
+	network 198.168.3.0
+	network 198.168.4.0
+	passive-interface g0/0
+	end
+	copy run start
+	Destination filename [startup-config]?
+	Building configuration...
+	[OK]
+
+  R3  >	enable
+	configure terminal
+	router rip
+	version 2
+	no auto-summary
+	network 192.168.4.0
+	network 192.168.5.0
+	passive-interface g0/0
+	end
+	copy run start
+
+  R1  >	enable
+	show ip route
+  R2  >	enable
+	show ip route
+  R3  >	enable
+	show ip route
+
+ping 192.168.3.10
+ping 192.168.5.10
+ping 64.100.20.0

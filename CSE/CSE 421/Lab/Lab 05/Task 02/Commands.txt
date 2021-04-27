@@ -1,0 +1,32 @@
+Edge_Router>
+	enable
+	configure terminal
+	ip route 0.0.0.0 0.0.0.0 s0/0/0
+	exit
+	show ip route
+	traceroute 198.0.0.10
+	configure terminal
+	ip route 0.0.0.0 0.0.0.0 s0/0/1 5
+	exit
+	show ip route
+
+	show run
+
+	configure terminal
+	int s0/0/0
+	shut
+	exit
+	exit
+	traceroute 198.0.0.10
+	show ip route
+	configure terminal
+	int s0/0/0
+	no shut
+	end
+	show ip route
+
+	configure terminal
+	ipv6 uni
+	ipv6 unicast-routing
+	ipv6 route ::/1 2001:DBB:A:2::1
+	ipv6 route ::/0 2001:DBB:A:2::1
