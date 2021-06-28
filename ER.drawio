@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T10:24:31.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Z9Jitq90RaSwLLyRWCGa" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T11:20:04.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eM1BHBGbcvf_3Vpc2Iom" version="14.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="4060" dy="2269" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2030" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300000" pageHeight="300000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,13 +446,13 @@
         <mxCell id="I6H-1c5d8jYA9ldY7Inj-229" value="Search inside discussion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="561" y="156" width="221" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="I6H-1c5d8jYA9ldY7Inj-230" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Week 1 Discussion From&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I6H-1c5d8jYA9ldY7Inj-230" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Week 1 Discussion&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="230" width="499" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I6H-1c5d8jYA9ldY7Inj-231" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Week 2 Discussion From&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I6H-1c5d8jYA9ldY7Inj-231" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Week 2 Discussion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="486" width="499" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I6H-1c5d8jYA9ldY7Inj-232" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Week N Discussion From&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I6H-1c5d8jYA9ldY7Inj-232" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Week N Discussion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="758" width="499" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6H-1c5d8jYA9ldY7Inj-233" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I6H-1c5d8jYA9ldY7Inj-232" target="I6H-1c5d8jYA9ldY7Inj-231">
